@@ -10,4 +10,4 @@ New map images should be added to `nongeoreferenced/` and new .tiff files should
 
 *Please only add public domain maps*
 
-`maps to find.md` includes other historical maps of Toulouse, France, that have not been downloaded yet, or are difficult to access.
+`maps-to-find.md` includes other historical maps of Toulouse, France, that have not been downloaded yet, or are difficult to access.
