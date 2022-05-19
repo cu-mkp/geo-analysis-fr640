@@ -1,0 +1,89 @@
+visible,folio,div id,type,,,description,place name,lat (Y),long  (x),lat ; long,
+,5r,p005r_1,casting;metal process;practical optics,Mirouers dacier,Mirouers dï¿½ï¿½,Steel mirrors,Venice,45.4408,12.3155,45.4408;12.3155,
+,12r,p012r_4,casting,Plastre,Plastre,Plaster,Albi,43.9251,2.1486,43.9251;2.1486,mountains
+,12v,p012v_1,casting,Mouler le stuc promptem{en}t,Mouler le stuc promptem{en}t,Molding stucco promptly,Armenian,40.0691,45.0382,40.0691;45.0382,
+,28v,p028v_1,casting,Pintiers,Pintiers,Pewterers,England;Germany;bonnes villes,,,;,mine;bonnes villes;countryside
+,28v,p028v_1,casting,Pintiers,Pintiers,Pewterers,England,52.3555,-1.1743,52.3555;-1.1743,
+,28v,p028v_1,casting,Pintiers,Pintiers,Pewterers,Germany,51.1657,10.4515,51.1657;10.4515,
+,28v,p028v_1,casting,Pintiers,Pintiers,Pewterers,Bonnes Villes,,,;,
+,29r,p029r_1,casting,Stuc pour mouler,Stuc pour mouler,Stucco for molding,Rome,41.9028,12.4964,41.9028;12.4964,in the open air;in the serain
+,32v,p032v_3,casting,Fondeur,Fondeur,Founder,Germany,51.1657,10.4515,51.1657;10.4515,
+,53r,p053r_6,casting,Gect de plomb et cuivre,Gect de plomb et cuivre,Casting of lead and copper,Champaigne;Lyon,,,;,
+,53r,p053r_6,casting,,,Casting of lead and copper,Champaigne,48.2997,4.0792,48.2997;4.0792,
+,53r,p053r_6,casting,,,Casting of lead and copper,Lyon,45.764,4.8357,45.764;4.8357,
+,63r,p063r_3,casting,Gect,Gect,Casting,Germans;Flanders,51.1657,10.4515,51.1657;10.4515,mine
+,63r,p063r_4,painting,Umbres,Umbres,Shadows,German,51.1657,10.4515,51.1657;10.4515,
+,68r,p068r_3,casting,Gect,Gect,Casting,Champagne,48.2997,4.0792,48.2997;4.0792,
+,69r,p069r_2,casting,Sable,Sable,Sand,bolvenes;Toulouse,,,;,sea;sandy paths;sun;quar<-reries->ries;rock caves;rocks;quarries;after rainy weather;rocks;near my area;in the sun
+,69r,p069r_2,casting,,,Sand,bolvenes,,,;,
+,69r,p069r_2,casting,,,Sand,Toulouse,43.6047,1.4442,43.6047;1.4442,
+,71v,p071v_4,casting,Sable,Sable,Sand,Toulouse;Carcassonne,,,;,
+,71v,p071v_4,casting,,,Sand,Toulouse,43.6047,1.4442,43.6047;1.4442,
+,71v,p071v_4,casting,,,Sand,Carcassonne,43.21,2.35,43.21;2.35,
+,72v,p072v_1,casting,Gect,Gect,Casting,Germans,51.1657,10.4515,51.1657;10.4515,
+,81r,p081r_1,casting,Sable,Sable,Sand,Puy David;Thoulouse,,,;,on the little hill
+,81r,p081r_1,casting,,,Sand,Puy David,45.5156,0.6476,45.5156;0.6476,
+,81r,p081r_1,casting,,,Sand,Thoulouse,43.6047,1.4442,43.6047;1.4442,
+,81r,p081r_2,casting,Terre a mouler,Terre ï¿½ï¿½ï¿,Earth for molding,Fosseret,43.2825,1.0664,"43.2825, 1.0664",
+,81r,p081r_2,casting,Terre a mouler,Terre ï¿½ï¿½ï¿,Earth for molding,Ox,45.1406,6.0511,"45.1406,ï¿½ï¿½6",
+,81r,p081r_4,casting,Carton,Carton,Carton,Florence,43.771389,11.254167,43.771389;11.254167,
+,84r,p084r_5,casting,Sable de mine de Th{ou}l{ous}e,Sable de mine de Th{ou}l{ous}e,Sand from a mine in Thoulouse,Thoulouse;Thoulouse;Puy David,,,;,"dry place;mine in Thoulouse;depths of the earth, from the small hill of Puy David"
+,84r,p084r_5,casting,,,Sand from a mine in Thoulouse,Thoulouse,43.6047,1.4442,43.6047;1.4442,
+,84r,p084r_5,casting,,,Sand from a mine in Thoulouse,Thoulouse,43.6047,1.4442,43.6047;1.4442,
+,84r,p084r_5,casting,,,Sand from a mine in Thoulouse,Puy David (Saint-Martial-de-Valette),45.5156,0.6476,45.5156;0.6476,
+,85r,p085r_2,household and daily life;decorative,Colle,Colle,Glue,Flemish,51.053611,3.725278,51.053611;3.725278,
+,85v,p085v_4,casting,Sables experimentes,Sables experimentï¿,Experimented sands,Th{oulous}e,43.6047,1.4442,43.6047;1.4442,mine;out of the wind
+,87r,p087r_1,casting,Sable de Th{ou}l{ous}e,Sable de Th{ou}l{ous}e,Sand from Thoulouse,Thoulouse;Puy David;Touch;Sainct Michel;Blagnac,,,;,vineyard;vineyard that is quite high up
+,87r,p087r_1,casting,,,Sand from Thoulouse,Thoulouse,43.6047,1.4442,43.6047;1.4442,
+,87r,p087r_1,casting,,,Sand from Thoulouse,Puy David (Saint-Martial-de-Valette),45.5156,0.6476,45.5156;0.6476,
+,87r,p087r_1,casting,,,Sand from Thoulouse,Sainct Michel du Tough,43.1683,1.0856,43.1683;1.0856,
+,87r,p087r_1,casting,,,Sand from Thoulouse,Blagnac,43.636,1.3906,43.636;1.3906,
+,87v,p087v_3,casting,Sable de mine de Th{ou}l{ous}e,Sable de mine de Th{ou}l{ous}e,Sand of the mine of Thoulouse,Thoulouse,43.6047,1.4442,43.6047;1.4442,mine;mine;deep in the earth;higher up
+,89v,p089v_2,casting;glass process,Sable de mine blanc des verriers  mesle de sel armoniac,Sable de mine blanc des verriers  meslï¿½ï¿½ï¿½ï¿½ï¿½ï¿,"Glassmakersï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ white sand from the min",Cominge;Aurignac,,,;,mine;town
+,89v,p089v_2,casting;glass process,,,"Glassmakersï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ white sand from the min",Cominge,43.21,2.35,43.21;2.35,
+,89v,p089v_2,casting;glass process,,,"Glassmakersï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ white sand from the min",Aurignac,43.2194,0.8803,43.2194;0.8803,
+,90r,p090r_2,casting,Sable,Sable,Sand,Foix,42.9664,1.6078,42.9664;1.6078,
+,90r,p090r_3,casting,Que tout sable se peult rendre bon,Que tout sable se peult rendre bon,That any sand can be rendered good,bonnes villes;Lyon;Venice;Paris near the Sainct Chappelle,,,;,mine;from the depths of the sand-bed;near the rocks in mountainous areas;lean territories;in the surroundings of all the bonnes villes;close to their house;mine
+,90r,p090r_3,casting,,,That any sand can be rendered good,bonnes villes,,,;,
+,90r,p090r_3,casting,,,That any sand can be rendered good,Lyon,45.764,4.8357,45.764;4.8357,
+,90r,p090r_3,casting,,,That any sand can be rendered good,Venice,45.4408,12.3155,45.4408;12.3155,
+,90r,p090r_3,casting,,,That any sand can be rendered good,Paris near the Sainct Chappelle,48.855278,2.345,48.855278;2.345,
+,106r,p106r_1,casting,Pour gect,Pour gect,For casting,Germany,51.1657,10.4515,51.1657;10.4515,
+,106r,p106r_2,casting,Faire courre lOr pour gect,Faire courre lï¿½ï¿½ï¿½ï¿½ï,Making gold run for casting,Paris,48.85,2.35,48.85;2.35,
+,107r,p107r_1,casting,Pour prendre lezards  et serpents,Pour prendre lezards  et serpents,Catching lizards and snakes,France;Rouan;Germany;Augsburg,,,;,in water
+,107r,p107r_1,casting,,,Catching lizards and snakes,France,48.85,2.35,48.85;2.35,
+,107r,p107r_1,casting,,,Catching lizards and snakes,Rouan (rouen?),49.442778,1.088611,49.442778;1.088611,
+,107r,p107r_1,casting,,,Catching lizards and snakes,Germany,51.1657,10.4515,51.1657;10.4515,
+,107r,p107r_1,casting,,,Catching lizards and snakes,Augsburg,48.368889,10.897778,48.368889;10.897778,
+,108r,p108r_2,casting,Spalt,Spalt,Spalt,Champagne (Troyes),48.2997,4.0792,48.2997;4.0792,earth;quarry
+,109r,p109r_1,casting;wax process,Esbaucher en cire,Esbaucher en cire,Modeling in wax,Italians,41.9028,12.4964,41.9028;12.4964,
+,119r,p119r_1,casting,Advertisseme{n}t sur ce que dessus,Advertisseme{n}t sur ce que dessus,Advice about the above,Germany,51.1657,10.4515,51.1657;10.4515,
+,119v,p119v_1,casting,Facon dacoustrer le  spat,Facon dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï,Fashion of preparing  spat,Germany,51.1657,10.4515,51.1657;10.4515,
+,120r,p120r_2,casting,Sable pour gecter en or,Sable pour gecter en or,Sand for casting in gold,Germany,51.1657,10.4515,51.1657;10.4515,
+,121v,p121v_2,casting,Argent a gecter,Argent a gecter,Silver for casting,Capital ( paris france?),,,;,
+,125r,p125r_1,casting,Plastre,Plastre,Plaster,Germany,51.1657,10.4515,51.1657;10.4515,rain;on the houses
+,125r,p125r_2,arms and armor;casting,Symeterres,Symeterres,Scimitars,Damascus;Hungary;Turks,,,;,
+,125r,p125r_2,arms and armor;casting,,,Scimitars,Damascus,33.513056,36.291944,33.513056;36.291944,
+,125r,p125r_2,arms and armor;casting,,,Scimitars,Hungary,47.433333,19.25,47.433333;19.25,
+,125r,p125r_2,arms and armor;casting,,,Scimitars,Turks,41.016667,28.95,41.016667;28.95,
+,128r,p128r_1,casting,Gecter en argent et or,Gecter en argent et or,Casting in silver and gold,capital,,,;,
+,128v,p128v_1,casting;metal process,Blanchiment de largent gecte,Blanchiment de lï¿½ï¿½ï¿½ï¿½ï,Whitening of cast silver,Germans;France;German,,,;,
+,128v,p128v_1,casting;metal process,,,Whitening of cast silver,Germans,51.1657,10.4515,51.1657;10.4515,
+,128v,p128v_1,casting;metal process,,,Whitening of cast silver,France,48.85,2.35,48.85;2.35,
+,136v,p136v_1,casting,Pour gecter en letton,Pour gecter en letton,For casting in latten,German;German,51.1657,10.4515,51.1657;10.4515,the air;the wind;wind
+,137r,p137r_2,casting;metal process,Huile tingente pour fayre  courre les metaux,Huile tingente pour fayre  courre les metaux,Huile tingente to make metals run,Venice,45.4408,12.3155,45.4408;12.3155,cold & humidity;spring of water in the pit
+,137v,p137v_1,casting,Destremper sable pour moule de  medailles plattes,Destremper sable pour moule de  medailles plattes,Tempering sand for molds of flat medals,Germany,51.1657,10.4515,51.1657;10.4515,
+,143r,p143r_1,casting,Mouler tortues,Mouler tortues,Molding turtles,garrigue;garrigue;garrigue,,,;,water;garrigue;water;garrigue;water;garrigue;cold;in the earth;under wheat chaff or warm manure
+,143r,p143r_1,casting,Mouleurs de foix,Mouleurs de Foix,Molders from Foix,Foix,42.9664,1.6078,42.9664;1.6078,
+,144r,p144r_1,casting,Tortues,Tortues,Turtles,garrigue,,,;,water;garrigue;water
+,146v,p146v_1,casting,Mouler tortues,Mouler tortues,Molding turtles,garrigue,,,;,water;garrigue
+,152r,p152r_1,casting,Mouler un rat,Mouler un rat,Molding a rat,Syracuse,37.069167,15.2875,37.069167;15.2875,in the cold
+,156v,p156v_1,casting,Mouler une mousche,Mouler une mousche,Molding a fly,Lorraine,48.8744,6.2081,48.8744;6.2081,pantries
+,159v,p159v_4,casting,Plastre seul,Plastre seul,Plaster alone,Paris;Spain;Germans,,,;,lean & dry earth;fountains
+,159v,p159v_4,casting,,,Plaster alone,Paris,48.85,2.35,48.85;2.35,
+,159v,p159v_4,casting,,,Plaster alone,Spain,40.433333,-3.7,40.433333;-3.7,
+,159v,p159v_4,casting,,,Plaster alone,Germans,51.1657,10.4515,51.1657;10.4515,
+,164r,p164r_3,casting,Argent plombeus,Argent plombeus,Leady silver,Spain;France,,,;,
+,164r,p164r_3,casting,,,Leady silver,Spain (madrid),40.433333,-3.7,40.433333;-3.7,
+,164r,p164r_3,casting,,,Leady silver,France (paris),48.85,2.35,48.85;2.35,
+,169v,p169v_1,casting,Mouler fort tanvre  co{mm}e font les bimbalotiers,Mouler fort tanvre  co{mm}e font les bimbalotiers,Molding very thin like bimbalotiers do,Istre,43.5151,4.9895,43.5151;4.9895,
